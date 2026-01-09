@@ -1,12 +1,20 @@
 # Projects Portfolio
 
-Applied mathematics and machine learning projects with a focus on optimization, data analysis, and applied AI.
+## Academic & Research Projects
 
-## Master’s Thesis
-Towards an improved nonconvex optimization step in a compressive clustering algorithm
+- **[Master’s Thesis — Advancing Non-Convex Optimization for Compressive Clustering](https://github.com/Mathys-Gouverneur/master-thesis)**  
+  Research project focused on non-convex optimization methods in compressive learning.
 
-## Academic Projects
-Selected individual academic machine learning and data science projects.  
+- **[Chernobyl Atmospheric Dispersion Modeling](https://github.com/Mathys-Gouverneur/chernobyl-dispersion-model)**  
+  Mathematical modeling of radioactive plume dispersion using advection–diffusion equations.
 
-## Kaggle Competitions
-Selected Kaggle machine learning competitions and notebooks.  
+- **[Sparse Linear Systems: GMRES and Direct Solvers](https://github.com/Mathys-Gouverneur/gmres-vs-lu-sparse-systems)**  
+  Numerical linear algebra project comparing iterative and direct solvers for large sparse systems.
+
+## Applied & Personal Projects
+
+- **[Intent Classification and Out-of-Scope Detection](https://github.com/Mathys-Gouverneur/intent-classification-oos-detection)**  
+  NLP pipeline for intent classification with explicit OOS detection using uncertainty-based features.
+
+- **[Interactive Visualization Dashboard for the CelebA Dataset](https://github.com/Mathys-Gouverneur/celeba-visualization-dashboard)**  
+  Dash-based dashboard for interactive exploration of face embeddings and metadata.
