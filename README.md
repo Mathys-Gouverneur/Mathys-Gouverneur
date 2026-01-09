@@ -1,6 +1,6 @@
 # Projects Portfolio
 
-## Academic & Research Projects
+## Academic Projects
 
 - **[Master’s Thesis — Advancing Non-Convex Optimization for Compressive Clustering](https://github.com/Mathys-Gouverneur/master-thesis)**  
   Research project focused on non-convex optimization methods in compressive learning.
@@ -11,7 +11,7 @@
 - **[Sparse Linear Systems: GMRES and Direct Solvers](https://github.com/Mathys-Gouverneur/gmres-vs-lu-sparse-systems)**  
   Numerical linear algebra project comparing iterative and direct solvers for large sparse systems.
 
-## Applied & Personal Projects
+## Personal Projects
 
 - **[Intent Classification and Out-of-Scope Detection](https://github.com/Mathys-Gouverneur/intent-classification-oos-detection)**  
   NLP pipeline for intent classification with explicit OOS detection using uncertainty-based features.
